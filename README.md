@@ -5,7 +5,7 @@ This repository contains the new features from Java versions 7,8,9,10,11,12,13,1
 
 Below are the new features sample code can be found inside Java 7 project.
 
-    1) THE TRY-WITH-RESOURCES STATEMENT
+    - 1) THE TRY-WITH-RESOURCES STATEMENT
     2) SUPPRESSED EXCEPTIONS
     3) CATCHING MULTIPLE EXCEPTIONS
     4) RETHROWING EXCEPTIONS WITH TYPE CHECKING
