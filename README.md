@@ -1,6 +1,13 @@
 # Java-New-features
 This repository contains the new features from Java versions 7,8,9,10,11,12,13,14,15. Each version new feature changes can be found in it's respective folder.
 
+## Compare and Contrast
+- Spring MVC vs Struts
+- Mockito vs EasyMock
+- Mockito vs JUnit
+- Microservices vs SOA
+- GIT vs SVN
+
 # Java 7 new features
 
 Below are the new features sample code can be found inside Java 7 project.
