@@ -2,6 +2,8 @@
 This repository contains the new features from Java versions 7,8,9,10,11,12,13,14,15. Each version new feature changes can be found in it's respective folder.
 
 ## Java 7 new features
+Below are the new features sample code can be found inside Java 7 project.
+
 - THE TRY-WITH-RESOURCES STATEMENT
 - SUPPRESSED EXCEPTIONS
 - CATCHING MULTIPLE EXCEPTIONS
