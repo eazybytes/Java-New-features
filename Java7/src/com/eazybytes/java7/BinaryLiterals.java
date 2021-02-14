@@ -4,7 +4,7 @@
 package com.eazybytes.java7;
 
 /**
- * @author EazyBytes
+ * @author Eazy Bytes
  *
  */
 public class BinaryLiterals {
