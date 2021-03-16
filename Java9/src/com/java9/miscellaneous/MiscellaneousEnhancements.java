@@ -21,9 +21,9 @@ public class MiscellaneousEnhancements {
 	 */
 	public static void main(String[] args) throws IOException {
 
-		// tryWithResource();
+		tryWithResource();
 		objectsMethods();
-		//diamondOperatorInAnanymousInnerClass();
+		diamondOperatorInAnanymousInnerClass();
 	}
 
 	public static void diamondOperatorInAnanymousInnerClass() {
