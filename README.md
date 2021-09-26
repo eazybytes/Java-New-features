@@ -1,4 +1,7 @@
 ## Java-New-features
+
+[![Image](https://img-c.udemycdn.com/redactor/raw/article_lecture/2021-09-21_15-01-34-7cb26c52617782b3dc4fd00c8fdf6568.JPG "Java 7 & 8 new features, enhancements Zero to Master")](https://www.udemy.com/course/java-7-8-new-featuresenhancements-zero-to-master/?referralCode=95D1BD4F7A04B0E19807)
+
 This repository contains the new features from Java versions 7,8. Each version new feature changes can be found in it's respective folder.
 
 ## Java 7 new features
@@ -34,22 +37,3 @@ Below are the new features sample code can be found inside Java 8 project.
 - COMPLETABLEFUTURE 
 - MAP ENHANCEMENTS
 - OTHER MISCELLANEOUS UPDATES
-
-## Java 9 new features
-Below are the new features sample code can be found inside Java 9 project.
-
-- NEW METHODS INSIDE COLLECTIONS API
-- NEW METHODS INSIDE ARRAYS
-- NEW METHODS INSIDE STREAMS & COLLECTORS
-- NEW METHODS INSIDE OPTIONAL CLASS
-- NEW METHODS INSIDE OBJECTS CLASS
-- PRIVATE METHODS IN INTERFACES
-- THE PROCESS API UPDATES
-- TRY WITH RESOURCE ENHANCEMENT
-- OTHER MISCELLANEOUS FEATURES
-
-
-
-
-
-
