@@ -1,6 +1,6 @@
 ## Java-New-features
 
-[![Image](https://img-c.udemycdn.com/redactor/raw/article_lecture/2021-09-21_15-01-34-7cb26c52617782b3dc4fd00c8fdf6568.JPG "Java 7 & 8 new features, enhancements Zero to Master")](https://www.udemy.com/course/java-7-8-new-featuresenhancements-zero-to-master/?referralCode=95D1BD4F7A04B0E19807)
+[![Image](https://img-c.udemycdn.com/redactor/raw/article_lecture/2022-03-30_15-57-44-ac0655edcbd16336964243db222afcb9.jpg "Java 7 & 8 new features, enhancements Zero to Master")](https://www.udemy.com/course/java-7-8-new-featuresenhancements-zero-to-master/?referralCode=95D1BD4F7A04B0E19807)
 
 This repository contains the new features from Java versions 7,8. Each version new feature changes can be found in it's respective folder.
 
